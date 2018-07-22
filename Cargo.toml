@@ -1,0 +1,7 @@
+[package]
+name = "errno-const"
+version = "0.1.0"
+authors = ["gyu-don <takumi.kt+git@gmail.com>"]
+
+[dependencies]
+cfg-if = "0.1.4"
